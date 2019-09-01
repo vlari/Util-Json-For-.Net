@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"address": "324 East 7th St, brooklyn",
+	"cars": [{
+		"id": 1,
+		"make": "BMW",
+		"model": "M4",
+		"owner": {
+			"FirstName": "Obed",
+			"lastName": "Garcia"
+		},
+		"dateOfBuy": "0001-01-01T00:00:00"
+	}]
+}
